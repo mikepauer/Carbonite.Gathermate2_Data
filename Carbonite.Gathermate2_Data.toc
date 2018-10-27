@@ -4,9 +4,11 @@
 ## Author: kagaro, Xinhuan, Rythal (repackaging for Carb), IrcDirk (new versions for Carb)
 ## X-Category: Map
 ## X-Email: sal.scotto@gmail.com
-## Version: 8.0.0
+## Version: @project-version@
 ## Dependencies: Carbonite
 ## LoadOnDemand: 1
+
+## X-WoWI-ID: 22789
 
 MiningData.lua
 HerbalismData.lua
