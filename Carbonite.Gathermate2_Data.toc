@@ -9,6 +9,7 @@
 ## LoadOnDemand: 1
 
 ## X-WoWI-ID: 22789
+## X-Curse-Project-ID: 75792
 
 MiningData.lua
 HerbalismData.lua
